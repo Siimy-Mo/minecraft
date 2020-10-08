@@ -2362,6 +2362,7 @@
       "cooked_beef": "2020-08-29 08:39:11 +0800",
       "beef": "2020-08-26 21:04:47 +0800",
       "porkchop": "2020-08-15 16:08:15 +0800",
+      "apple": "2020-10-03 14:37:05 +0800",
       "spider_eye": "2020-08-26 19:06:59 +0800",
       "potato": "2020-08-29 12:16:09 +0800",
       "cooked_cod": "2020-08-16 10:14:36 +0800",
@@ -3688,6 +3689,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2020-08-26 20:05:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2020-10-03 15:41:29 +0800"
     },
     "done": true
   },

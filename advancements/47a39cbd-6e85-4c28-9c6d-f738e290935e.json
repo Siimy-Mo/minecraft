@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2020-10-04 17:38:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2020-08-30 22:16:28 +0800"
@@ -476,6 +482,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2020-10-03 10:22:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2020-08-31 20:45:25 +0800"
@@ -652,6 +664,7 @@
       "minecraft:phantom": "2020-08-29 20:03:02 +0800",
       "minecraft:witch": "2020-08-30 18:49:15 +0800",
       "minecraft:wither_skeleton": "2020-08-31 20:50:52 +0800",
+      "minecraft:enderman": "2020-10-02 23:53:25 +0800",
       "minecraft:zombie": "2020-08-29 16:26:15 +0800",
       "minecraft:drowned": "2020-10-01 21:33:41 +0800"
     },
@@ -1023,6 +1036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2020-10-03 09:59:12 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2020-10-02 14:40:12 +0800"
@@ -1116,6 +1135,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2020-08-29 20:12:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2020-10-03 11:34:45 +0800"
     },
     "done": true
   },
@@ -1836,11 +1861,14 @@
       "chicken": "2020-08-31 16:08:16 +0800",
       "cooked_beef": "2020-08-29 15:48:00 +0800",
       "chorus_fruit": "2020-08-30 19:39:00 +0800",
+      "tropical_fish": "2020-10-04 16:20:49 +0800",
       "apple": "2020-10-01 23:52:53 +0800",
+      "spider_eye": "2020-10-03 14:17:04 +0800",
       "cooked_cod": "2020-08-29 15:45:44 +0800",
       "pufferfish": "2020-08-31 17:10:35 +0800",
       "bread": "2020-08-29 17:36:46 +0800",
       "rotten_flesh": "2020-08-31 16:11:18 +0800",
+      "salmon": "2020-10-03 14:19:43 +0800",
       "cooked_chicken": "2020-08-31 17:25:05 +0800",
       "cod": "2020-10-02 15:51:35 +0800",
       "carrot": "2020-08-29 20:15:47 +0800"
@@ -2258,6 +2286,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2020-08-29 15:56:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2020-10-03 09:59:12 +0800"
     },
     "done": true
   },
@@ -2771,6 +2805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2020-10-03 11:19:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2020-08-29 17:23:13 +0800"
@@ -2882,6 +2922,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2020-08-31 16:06:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2020-10-04 02:36:08 +0800"
     },
     "done": true
   },
