@@ -422,6 +422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-10-24 14:22:56 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2020-08-30 22:16:28 +0800"
@@ -665,6 +671,7 @@
       "minecraft:witch": "2020-08-30 18:49:15 +0800",
       "minecraft:wither_skeleton": "2020-08-31 20:50:52 +0800",
       "minecraft:enderman": "2020-10-02 23:53:25 +0800",
+      "minecraft:stray": "2020-10-25 11:12:43 +0800",
       "minecraft:zombie": "2020-08-29 16:26:15 +0800",
       "minecraft:drowned": "2020-10-01 21:33:41 +0800"
     },
@@ -697,6 +704,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2020-08-29 17:23:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2020-10-24 18:01:44 +0800"
     },
     "done": true
   },
@@ -979,6 +992,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2020-08-30 19:37:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2020-10-24 13:50:48 +0800"
     },
     "done": true
   },
@@ -1284,10 +1303,12 @@
       "minecraft:taiga": "2020-08-29 20:19:58 +0800",
       "minecraft:desert_hills": "2020-08-30 18:46:59 +0800",
       "minecraft:deep_cold_ocean": "2020-08-29 20:22:20 +0800",
+      "minecraft:snowy_tundra": "2020-10-24 19:02:43 +0800",
       "minecraft:taiga_hills": "2020-08-29 20:20:15 +0800",
       "minecraft:desert": "2020-08-29 15:53:19 +0800",
       "minecraft:deep_frozen_ocean": "2020-08-29 20:22:42 +0800",
       "minecraft:birch_forest": "2020-08-29 15:53:30 +0800",
+      "minecraft:snowy_beach": "2020-10-24 19:02:26 +0800",
       "minecraft:warm_ocean": "2020-10-01 21:21:24 +0800",
       "minecraft:deep_lukewarm_ocean": "2020-08-29 23:55:49 +0800",
       "minecraft:savanna_plateau": "2020-08-29 17:31:24 +0800",
@@ -1295,6 +1316,7 @@
       "minecraft:dark_forest": "2020-08-29 20:19:34 +0800",
       "minecraft:river": "2020-08-29 15:44:11 +0800",
       "minecraft:lukewarm_ocean": "2020-08-29 15:42:58 +0800",
+      "minecraft:snowy_taiga": "2020-10-24 19:02:38 +0800",
       "minecraft:birch_forest_hills": "2020-08-29 23:41:38 +0800",
       "minecraft:wooded_mountains": "2020-09-11 16:05:42 +0800",
       "minecraft:wooded_hills": "2020-08-29 15:45:45 +0800",
@@ -1373,6 +1395,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2020-08-30 22:16:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2020-10-24 14:27:26 +0800"
     },
     "done": true
   },
@@ -1634,6 +1662,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2020-10-24 18:01:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2020-08-29 15:47:42 +0800"
@@ -1814,6 +1848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2020-10-24 18:01:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2020-08-29 18:44:52 +0800"
@@ -1829,6 +1869,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-08-31 20:58:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2020-10-24 13:28:17 +0800"
     },
     "done": true
   },
@@ -1859,6 +1905,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2020-08-31 16:08:16 +0800",
+      "sweet_berries": "2020-10-25 11:14:44 +0800",
       "cooked_beef": "2020-08-29 15:48:00 +0800",
       "chorus_fruit": "2020-08-30 19:39:00 +0800",
       "tropical_fish": "2020-10-04 16:20:49 +0800",
@@ -1902,6 +1949,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2020-08-29 17:48:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2020-10-24 18:01:44 +0800"
     },
     "done": true
   },
@@ -2232,6 +2285,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-10-01 21:51:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2020-10-24 13:28:17 +0800"
     },
     "done": true
   },
@@ -2577,6 +2636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2020-10-24 18:01:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-08-29 16:00:53 +0800"
@@ -2586,6 +2651,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2020-08-31 20:48:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2020-10-24 18:01:44 +0800"
     },
     "done": true
   },
