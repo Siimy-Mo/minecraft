@@ -59,17 +59,11 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
-      "entered_nether": "2020-06-18 21:42:02 +0800"
+      "has_at_least_9_redstone": "2020-05-27 00:30:22 +0800"
     },
     "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_cod": "2020-07-22 14:29:45 +0800"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
@@ -83,12 +77,6 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2020-06-18 21:42:02 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2020-05-27 00:00:21 +0800"
@@ -97,7 +85,6 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2020-07-22 14:28:50 +0800",
       "minecraft:mountains": "2020-05-27 00:30:55 +0800",
       "minecraft:beach": "2020-05-26 23:50:04 +0800",
       "minecraft:river": "2020-05-26 23:50:05 +0800",
@@ -109,6 +96,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2020-05-27 00:00:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_at_least_9_redstone": "2020-05-27 00:30:22 +0800"
     },
     "done": true
   },
@@ -130,27 +123,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2020-07-22 14:29:45 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2020-05-26 23:59:47 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2020-08-12 19:58:45 +0800"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_boots": "2020-08-12 19:58:45 +0800"
     },
     "done": true
   },
@@ -190,13 +165,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-05-27 00:00:21 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2020-05-27 00:00:21 +0800"
     },
@@ -232,17 +207,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2020-08-12 19:57:29 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2020-05-27 00:00:21 +0800"
     },
     "done": true
   },
-  "DataVersion": 2230
+  "DataVersion": 1968
 }
