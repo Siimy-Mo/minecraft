@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2021-02-09 13:49:38 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_the_recipe": "2021-01-24 16:40:40 +0800"
@@ -237,6 +243,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2021-01-28 16:57:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2021-02-04 12:01:37 +0800"
     },
     "done": true
   },
@@ -324,6 +336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2021-02-04 12:12:42 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2021-01-25 11:41:26 +0800"
@@ -348,6 +366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2021-02-09 13:45:39 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2021-01-25 11:41:26 +0800"
@@ -357,6 +381,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2021-01-24 12:45:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2021-02-04 11:53:00 +0800"
     },
     "done": true
   },
@@ -564,9 +594,21 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2021-02-04 12:05:11 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-01-24 12:45:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2021-02-04 11:53:00 +0800"
     },
     "done": true
   },
@@ -664,9 +706,11 @@
     "criteria": {
       "minecraft:pillager": "2021-01-27 15:29:51 +0800",
       "minecraft:skeleton": "2021-01-24 12:36:19 +0800",
+      "minecraft:zombie_pigman": "2021-02-09 13:45:38 +0800",
       "minecraft:ravager": "2021-01-27 17:09:44 +0800",
       "minecraft:ghast": "2021-01-27 11:44:40 +0800",
       "minecraft:vindicator": "2021-01-27 17:02:43 +0800",
+      "minecraft:magma_cube": "2021-02-09 13:49:37 +0800",
       "minecraft:spider": "2021-01-25 12:16:25 +0800",
       "minecraft:creeper": "2021-01-24 13:21:53 +0800",
       "minecraft:evoker": "2021-01-27 17:18:41 +0800",
@@ -826,6 +870,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-01-26 09:57:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2021-02-03 19:18:22 +0800"
     },
     "done": true
   },
@@ -1412,6 +1462,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2021-01-28 12:23:55 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2021-02-04 11:53:00 +0800"
     },
     "done": true
   },
@@ -2261,6 +2317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2021-02-04 12:12:42 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-01-25 11:19:48 +0800"
@@ -2354,6 +2416,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2021-01-25 11:19:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2021-02-09 13:45:39 +0800"
     },
     "done": true
   },
@@ -2594,6 +2662,12 @@
   "minecraft:story/cure_zombie_villager": {
     "criteria": {
       "cured_zombie": "2021-01-28 18:27:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2021-02-04 12:01:37 +0800"
     },
     "done": true
   },
@@ -2846,6 +2920,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2021-01-25 11:37:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2021-02-04 12:12:42 +0800"
     },
     "done": true
   },
