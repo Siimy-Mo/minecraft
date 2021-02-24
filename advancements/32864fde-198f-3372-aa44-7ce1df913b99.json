@@ -547,6 +547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2021-02-23 14:41:41 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-09-18 07:20:49 +0800"
@@ -823,6 +829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2021-02-23 14:44:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2020-09-17 21:22:59 +0800"
@@ -887,6 +899,7 @@
     "criteria": {
       "minecraft:skeleton": "2020-09-17 21:25:57 +0800",
       "minecraft:spider": "2020-09-18 07:25:22 +0800",
+      "minecraft:creeper": "2021-02-23 14:41:36 +0800",
       "minecraft:zombie": "2020-09-17 21:22:42 +0800",
       "minecraft:drowned": "2020-09-18 07:43:44 +0800"
     },
@@ -1105,6 +1118,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2020-09-18 09:39:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2021-02-23 14:44:58 +0800"
     },
     "done": true
   },
@@ -1426,6 +1445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2021-02-23 14:44:58 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2020-09-17 21:06:32 +0800"
@@ -1594,6 +1619,7 @@
       "minecraft:river": "2020-09-17 21:06:54 +0800",
       "minecraft:lukewarm_ocean": "2020-09-17 21:06:59 +0800",
       "minecraft:wooded_mountains": "2020-09-17 21:16:15 +0800",
+      "minecraft:wooded_hills": "2021-02-23 14:39:16 +0800",
       "minecraft:stone_shore": "2020-09-17 21:13:08 +0800",
       "minecraft:plains": "2020-09-17 20:39:04 +0800"
     },
@@ -1680,6 +1706,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-09-17 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-02-23 14:36:46 +0800"
     },
     "done": true
   },
