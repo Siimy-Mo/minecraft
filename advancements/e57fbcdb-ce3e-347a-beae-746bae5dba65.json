@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2021-03-15 22:04:30 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
     "criteria": {
       "has_light_blue_terracotta": "2020-07-31 17:39:08 +0800"
@@ -824,6 +830,12 @@
   "minecraft:end/dragon_breath": {
     "criteria": {
       "dragon_breath": "2021-03-13 22:12:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2021-03-15 22:04:30 +0800"
     },
     "done": true
   },
@@ -2584,6 +2596,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2021-03-15 00:28:03 +0800",
       "chorus_fruit": "2020-07-20 22:12:27 +0800",
       "cooked_beef": "2020-07-22 22:24:59 +0800",
       "apple": "2021-03-09 20:38:39 +0800",
@@ -3501,6 +3514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2021-03-14 22:58:30 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2020-07-19 19:31:34 +0800"
@@ -3741,6 +3760,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2021-03-15 22:04:30 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2020-07-15 16:53:52 +0800"
@@ -3870,6 +3895,12 @@
   "minecraft:recipes/decorations/lime_glazed_terracotta": {
     "criteria": {
       "has_lime_terracotta": "2021-02-28 21:53:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2021-03-15 22:04:30 +0800"
     },
     "done": true
   },
