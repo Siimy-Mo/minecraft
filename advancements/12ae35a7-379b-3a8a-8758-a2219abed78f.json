@@ -386,6 +386,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2021-04-04 01:03:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2020-08-30 19:43:08 +0800"
@@ -740,6 +746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2021-04-04 00:27:25 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_lime_dye": "2020-08-31 17:17:21 +0800"
@@ -836,6 +848,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2021-04-04 01:03:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2021-04-04 11:25:24 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2020-08-29 15:39:31 +0800"
@@ -897,11 +921,13 @@
       "minecraft:skeleton": "2020-08-29 17:36:33 +0800",
       "minecraft:ravager": "2021-02-21 08:59:47 +0800",
       "minecraft:ghast": "2020-08-31 20:37:21 +0800",
+      "minecraft:hoglin": "2021-04-03 21:21:37 +0800",
       "minecraft:guardian": "2020-10-01 21:37:49 +0800",
       "minecraft:vindicator": "2020-08-30 19:43:08 +0800",
       "minecraft:magma_cube": "2021-01-23 20:16:41 +0800",
       "minecraft:spider": "2020-08-29 17:14:37 +0800",
       "minecraft:creeper": "2020-08-29 17:14:09 +0800",
+      "minecraft:wither": "2021-04-04 16:10:28 +0800",
       "minecraft:slime": "2020-11-22 00:02:14 +0800",
       "minecraft:evoker": "2021-02-21 09:05:41 +0800",
       "minecraft:phantom": "2020-08-29 20:03:02 +0800",
@@ -1042,6 +1068,12 @@
   "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2020-10-01 21:27:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2021-04-03 21:35:03 +0800"
     },
     "done": true
   },
@@ -1477,6 +1509,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2021-04-03 23:45:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2020-08-29 16:19:56 +0800"
@@ -1504,6 +1542,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2020-10-02 14:40:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2021-04-04 00:52:12 +0800"
     },
     "done": true
   },
@@ -1540,6 +1584,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2020-08-31 20:58:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2021-04-04 00:57:20 +0800"
     },
     "done": true
   },
@@ -1666,6 +1716,12 @@
   "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine_brick": "2020-10-01 21:27:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2021-04-03 21:35:03 +0800"
     },
     "done": true
   },
@@ -1874,6 +1930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2021-04-04 00:46:54 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2020-08-29 15:58:57 +0800"
@@ -1997,6 +2059,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2020-10-01 21:26:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2021-04-04 00:46:54 +0800"
     },
     "done": true
   },
@@ -3499,6 +3567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2021-04-03 21:35:03 +0800"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tactical_fishing": {
     "criteria": {
       "tropical_fish_bucket": "2021-02-25 18:53:49 +0800"
@@ -3877,6 +3951,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2021-04-04 01:03:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_slime": "2020-10-03 11:19:15 +0800"
@@ -3940,6 +4020,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-11-22 08:36:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2021-04-04 00:28:59 +0800"
     },
     "done": true
   },
@@ -4015,6 +4101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2021-04-04 01:03:26 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2020-08-29 20:12:07 +0800"
@@ -4084,6 +4176,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2020-08-29 20:05:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2021-04-03 23:45:10 +0800"
     },
     "done": true
   },

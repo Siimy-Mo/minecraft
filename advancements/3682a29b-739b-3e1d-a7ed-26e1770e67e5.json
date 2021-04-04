@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2021-04-03 18:50:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2021-03-05 10:05:37 +0800"
@@ -697,6 +703,7 @@
       "minecraft:ghast": "2021-03-16 11:48:31 +0800",
       "minecraft:spider": "2021-03-05 09:44:20 +0800",
       "minecraft:creeper": "2021-03-05 10:08:15 +0800",
+      "minecraft:phantom": "2021-04-03 21:37:56 +0800",
       "minecraft:enderman": "2021-03-05 10:42:12 +0800",
       "minecraft:zombie": "2021-03-05 10:00:13 +0800",
       "minecraft:drowned": "2021-03-05 10:00:21 +0800",
@@ -872,6 +879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2021-04-03 18:50:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2021-03-08 12:03:37 +0800"
@@ -947,6 +960,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2021-03-07 10:45:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2021-04-03 18:50:47 +0800"
     },
     "done": true
   },
@@ -1334,6 +1353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2021-04-03 21:38:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-03-05 09:54:13 +0800"
@@ -1409,6 +1434,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2021-03-05 17:21:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2021-04-03 18:50:47 +0800"
     },
     "done": true
   },
@@ -1622,6 +1653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2021-04-03 18:50:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2021-03-08 12:03:37 +0800"
@@ -1684,6 +1721,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2021-04-03 22:10:21 +0800",
       "minecraft:basalt_deltas": "2021-03-20 21:35:25 +0800"
     },
     "done": false
@@ -1793,6 +1831,12 @@
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_white_flower": "2021-03-09 14:40:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2021-04-03 18:50:47 +0800"
     },
     "done": true
   },
@@ -2135,6 +2179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2021-04-03 21:38:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2021-03-06 17:21:22 +0800"
@@ -2270,6 +2320,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2021-03-16 20:32:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2021-04-03 18:50:47 +0800"
     },
     "done": true
   },
@@ -3326,6 +3382,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2021-03-06 17:21:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2021-04-03 21:35:47 +0800"
     },
     "done": true
   },
