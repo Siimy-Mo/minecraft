@@ -10,12 +10,12 @@ execute as @p[team= , distance=..10] run tellraw @s [{"text":"1.在出生点是�
 execute as @p[team= , distance=..10] run tellraw @s [{"text":"2.房间内禁止辱骂攻击他人；禁止强迫别人PVP；盗取他人财产；破坏他人建筑。", "color":"light_purple"}]
 execute as @p[team= , distance=..10] run tellraw @s [{"text":"3.适度白嫖", "color":"light_purple"}]
 execute as @p[team= , distance=..10] run tellraw @s [{"text":"4.禁止无意义的跑图，更何况新人只能在距离出生点2000格范围内活动，放弃吧。", "color":"light_purple"}]
-execute as @p[team= , distance=..10] run tellraw @s [{"text":"FINAL：本房间为24小时运行的联机房，房主只是一个主机，通常是不会回话的。想要参观但是没人的话可Q 群↓", "color":"light_purple"}]
+execute as @p[team= , distance=..10] run tellraw @s [{"text":"FINAL：本房间为24小时运行的联机房，房主只是一个主机，通常是不会回话的。想要参观但是没人的话可Q 群↓(定期清人，闲人勿加)", "color":"light_purple"}]
 
 
 execute as @p[team= , distance=..10] run tellraw @s [{"text":"————————————100-365-9343—————————————", "color":"gold"}]
 execute as @p[team= , distance=..10] run tellraw @s [{"text":"看公告很重要，很重要，看懂公告是交流的前提，拒绝一进房间就要求tp的请求，没有tp没有创造权限。谢谢。", "color":"gold"}]
-execute as @p[team= , distance=..10] run tellraw @s [{"text":"本房间会随wy版本升级时同时升级到1.16，且重置地狱存档。", "color":"gold"}]
+execute as @p[team= , distance=..10] run tellraw @s [{"text":"别问为什么不开服务器，你只会被反问为什么要开服务器。长假人会多起来，如果满人的话就会关闭公开。", "color":"gold"}]
 
 # execute as @p[team= , distance=..10] run tellraw @s [{"text":"", "color":"blue"}]
 
