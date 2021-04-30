@@ -7,5 +7,5 @@ execute as @a[team=,distance=25..] run gamemode survival @s
 execute as @a[team=,nbt={Dimension:'minecraft:overworld'},x=280972,y=0,z=-429268,dx=30,dy=256,dz=30] run gamemode adventure @s
 
 execute as @a[team=new,nbt={Dimension:'minecraft:overworld'}] run tag @s add invalid_position
-execute as @a[team=new,nbt={Dimension:'minecraft:overworld'},x=276472,y=0,z=-431617,dx=5000,dy=256,dz=3000] run tag @s remove invalid_position
+execute as @a[team=new,nbt={Dimension:'minecraft:overworld'},x=276472,y=0,z=-431617,dx=5000,dy=255,dz=3000] run tag @s remove invalid_position
 execute as @a[team=new,tag=invalid_position] run tp @s 280987 70 -429253

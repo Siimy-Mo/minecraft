@@ -8,4 +8,5 @@ execute as @a at @s run scoreboard players operation @s used += @s used_axe
 execute as @a at @s run scoreboard players operation @s used += @s used_hoe
 execute as @a at @s run scoreboard players operation @s used += @s used_pickaxe
 execute as @a at @s run scoreboard players operation @s used += @s used_shovel
+execute as @a at @s run scoreboard players operation @s used += @s nether_pickaxe
 schedule function scoreboard:used_rank 5s
