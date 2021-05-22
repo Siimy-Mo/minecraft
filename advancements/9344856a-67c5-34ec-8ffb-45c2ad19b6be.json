@@ -1479,6 +1479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
+    "criteria": {
+      "has_log": "2021-05-20 18:36:15 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2020-05-17 00:22:20 +0800"
@@ -3226,6 +3232,7 @@
       "minecraft:silverfish": "2020-07-21 18:49:26 +0800",
       "minecraft:enderman": "2020-07-22 20:35:32 +0800",
       "minecraft:endermite": "2021-03-28 16:28:26 +0800",
+      "minecraft:vex": "2021-05-19 14:34:32 +0800",
       "minecraft:zombie": "2020-07-16 13:57:23 +0800",
       "minecraft:drowned": "2020-07-16 20:30:15 +0800",
       "minecraft:zombie_villager": "2020-07-21 18:56:37 +0800"

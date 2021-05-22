@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-05-14 23:35:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2021-05-10 00:25:30 +0800"
@@ -242,6 +248,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2021-04-14 01:19:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2021-05-16 19:10:15 +0800"
     },
     "done": true
   },
@@ -598,6 +610,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-05-16 19:41:52 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2021-04-14 01:33:42 +0800"
@@ -637,6 +655,18 @@
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-05-10 14:46:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-05-14 23:35:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2021-05-16 16:41:44 +0800"
     },
     "done": true
   },
@@ -724,6 +754,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-05-18 18:06:22 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2021-05-10 00:14:27 +0800"
@@ -775,6 +811,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2021-04-15 00:19:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-05-18 18:08:04 +0800"
     },
     "done": true
   },
@@ -1133,6 +1175,7 @@
       "minecraft:mountains": "2021-05-04 23:37:08 +0800",
       "minecraft:taiga": "2021-05-04 23:38:02 +0800",
       "minecraft:snowy_tundra": "2021-05-04 23:33:33 +0800",
+      "minecraft:desert": "2021-05-18 18:54:12 +0800",
       "minecraft:birch_forest": "2021-05-04 16:01:24 +0800",
       "minecraft:deep_lukewarm_ocean": "2021-04-14 01:23:03 +0800",
       "minecraft:beach": "2021-04-14 01:18:02 +0800",
@@ -1312,7 +1355,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2021-05-04 16:15:02 +0800",
       "minecraft:soul_sand_valley": "2021-04-14 01:23:28 +0800",
-      "minecraft:nether_wastes": "2021-05-04 16:13:39 +0800"
+      "minecraft:nether_wastes": "2021-05-04 16:13:39 +0800",
+      "minecraft:basalt_deltas": "2021-05-18 19:07:23 +0800"
     },
     "done": false
   },
@@ -1325,6 +1369,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_chestplate": "2021-05-04 23:23:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting": {
+    "criteria": {
+      "has_diamond_ore": "2021-05-18 18:26:24 +0800"
     },
     "done": true
   },
@@ -1364,9 +1414,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2021-05-16 16:41:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2021-04-14 01:18:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2021-05-16 19:10:15 +0800"
     },
     "done": true
   },
@@ -1637,6 +1699,8 @@
       "potato": "2021-05-04 17:03:58 +0800",
       "cooked_cod": "2021-04-14 01:20:23 +0800",
       "pumpkin_pie": "2021-05-10 00:24:47 +0800",
+      "melon_slice": "2021-05-14 23:35:24 +0800",
+      "cooked_salmon": "2021-05-14 23:18:07 +0800",
       "carrot": "2021-05-09 23:35:46 +0800"
     },
     "done": false
@@ -1800,6 +1864,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2021-05-07 23:05:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2021-05-16 16:41:44 +0800"
     },
     "done": true
   },
@@ -2002,6 +2072,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2021-05-18 18:26:24 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2021-05-09 23:56:13 +0800"
@@ -2173,6 +2249,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-04-14 01:18:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2021-05-18 18:47:49 +0800"
     },
     "done": true
   },
@@ -2476,6 +2558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2021-05-18 18:06:53 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2021-04-14 01:16:08 +0800"
@@ -2632,6 +2720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2021-05-18 18:47:49 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2021-04-14 01:32:46 +0800"
@@ -2677,6 +2771,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-05-10 14:46:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-05-18 18:08:04 +0800"
     },
     "done": true
   },
@@ -2779,6 +2879,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2021-04-14 01:32:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2021-05-14 23:35:17 +0800"
     },
     "done": true
   },
