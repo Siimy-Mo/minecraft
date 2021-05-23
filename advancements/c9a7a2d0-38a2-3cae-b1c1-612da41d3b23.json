@@ -557,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2021-05-22 21:22:38 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-04-17 14:22:26 +0800"
@@ -632,12 +638,15 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2021-05-20 21:22:28 +0800",
+      "minecraft:blaze": "2021-05-23 15:40:03 +0800",
       "minecraft:skeleton": "2021-04-16 23:28:05 +0800",
       "minecraft:vindicator": "2021-05-20 21:27:03 +0800",
+      "minecraft:magma_cube": "2021-05-23 15:46:12 +0800",
       "minecraft:spider": "2021-04-17 00:02:16 +0800",
       "minecraft:creeper": "2021-04-19 20:07:14 +0800",
       "minecraft:evoker": "2021-05-20 21:30:35 +0800",
       "minecraft:phantom": "2021-04-19 20:11:01 +0800",
+      "minecraft:zombified_piglin": "2021-05-23 15:41:52 +0800",
       "minecraft:wither_skeleton": "2021-05-15 11:31:15 +0800",
       "minecraft:stray": "2021-05-15 11:35:51 +0800",
       "minecraft:enderman": "2021-05-21 20:55:13 +0800",
@@ -743,6 +752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2021-05-22 21:22:38 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-04-16 23:34:59 +0800"
@@ -752,6 +767,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2021-04-16 23:52:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2021-05-22 21:22:38 +0800"
     },
     "done": true
   },
@@ -857,6 +878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2021-05-23 15:46:01 +0800"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2021-04-24 19:44:47 +0800"
@@ -914,6 +941,12 @@
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_planks": "2021-04-17 18:59:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2021-05-22 21:22:38 +0800"
     },
     "done": true
   },
@@ -1584,6 +1617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2021-05-23 13:55:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2021-04-16 23:52:09 +0800"
@@ -1811,6 +1850,7 @@
       "rotten_flesh": "2021-04-16 23:35:38 +0800",
       "salmon": "2021-05-04 15:29:32 +0800",
       "melon_slice": "2021-05-04 20:29:54 +0800",
+      "golden_carrot": "2021-05-22 19:51:09 +0800",
       "cooked_chicken": "2021-04-30 21:37:10 +0800",
       "mushroom_stew": "2021-05-08 21:47:37 +0800"
     },
@@ -1921,6 +1961,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-04-16 23:34:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2021-05-22 21:22:38 +0800"
     },
     "done": true
   },
@@ -2467,6 +2513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2021-05-22 21:22:38 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-05-04 23:03:25 +0800"
@@ -2731,6 +2783,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2021-05-23 15:46:01 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2021-04-21 22:06:42 +0800"
@@ -2776,6 +2834,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_blue_dye": "2021-05-05 16:04:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2021-05-23 15:46:01 +0800"
     },
     "done": true
   },
@@ -2974,6 +3038,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-05-21 21:19:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2021-05-22 19:53:30 +0800"
     },
     "done": true
   },

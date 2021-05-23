@@ -17,4 +17,4 @@ tellraw @p ["",{"text":"印钞机","clickEvent":{"action":"run_command", "value"
 tellraw @p ["",{"text":"晨阳家","clickEvent":{"action":"run_command", "value":"/execute in minecraft:overworld run tp @p 277140 70 -430520"},"color":"blue","underlined":"true"}]
 tellraw @p ["",{"text":"末地门","clickEvent":{"action":"run_command", "value":"/execute in minecraft:overworld run tp @p -719 28 -1722"},"color":"red","underlined":"true"}]
 tellraw @p ["",{"text":"猪人塔","clickEvent":{"action":"run_command", "value":"/execute in minecraft:the_nether run tp @s 81.28 246.00 -112.51"},"color":"red","underlined":"true"}]
-tellraw @p ["",{"text":"烈焰人农场","clickEvent":{"action":"run_command", "value":"/execute in minecraft:overworld run tp @p -694.56 53.68 -570.80"},"color":"red","underlined":"true"}]
+tellraw @p ["",{"text":"烈焰人农场","clickEvent":{"action":"run_command", "value":"/execute in minecraft:the_nether run tp @p -694.56 53.68 -570.80"},"color":"red","underlined":"true"}]
