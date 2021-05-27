@@ -9,7 +9,7 @@ execute as @p[team= , distance=..10] run tellraw @s [{"text":"0.请按下TAB,如
 execute as @p[team= , distance=..10] run tellraw @s [{"text":"1.在出生点是处于冒险模式，离开出生点就是生存模式了。有死亡不掉落，目前是防爆状态，但是不代表之后不会关闭防爆。", "color":"light_purple"}]
 execute as @p[team= , distance=..10] run tellraw @s [{"text":"2.房间内禁止辱骂攻击他人；禁止强迫别人PVP；盗取他人财产；破坏他人建筑。", "color":"light_purple"}]
 execute as @p[team= , distance=..10] run tellraw @s [{"text":"3.适度白嫖", "color":"light_purple"}]
-execute as @p[team= , distance=..10] run tellraw @s [{"text":"4.禁止无意义的跑图，更何况新人只能在距离出生点2000格范围内活动，放弃吧。", "color":"light_purple"}]
+execute as @p[team= , distance=..10] run tellraw @s [{"text":"4.禁止无意义的跑图，更何况新人只能在距离出生点2000格范围内活动，圈內沒有末地门。", "color":"light_purple"}]
 execute as @p[team= , distance=..10] run tellraw @s [{"text":"FINAL：本房间为24小时运行的联机房，房主只是一个主机，通常是不会回话的。想要参观但是没人的话可Q 群↓(定期清人，闲人勿加)", "color":"light_purple"}]
 
 

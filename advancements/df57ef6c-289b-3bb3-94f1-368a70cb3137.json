@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2021-05-24 18:24:45 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2021-05-13 11:18:19 +0800"
@@ -536,6 +542,7 @@
       "minecraft:hoglin": "2021-05-16 12:14:47 +0800",
       "minecraft:guardian": "2021-05-19 17:37:17 +0800",
       "minecraft:vindicator": "2021-05-22 11:06:04 +0800",
+      "minecraft:magma_cube": "2021-05-24 18:24:43 +0800",
       "minecraft:spider": "2021-05-13 11:39:27 +0800",
       "minecraft:creeper": "2021-05-13 11:44:42 +0800",
       "minecraft:zombified_piglin": "2021-05-22 14:09:27 +0800",
@@ -1150,6 +1157,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2021-05-16 10:37:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2021-05-24 18:57:31 +0800"
     },
     "done": true
   },
